@@ -1,10 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .thanhnav {
+  width: 100%;
+  background-image: linear-gradient(to right, #001f54, #1282a2);
 }
 .title {
-  /* background-color: #caf0f8; */
+  background-color: #48cae4;
 
   margin: 45px 100px;
 }
 .title-image {
   margin: auto;
+  border-radius: 100%;
 }
