@@ -13,6 +13,9 @@ h1 {
   padding: 100px 50px 50px;
   color: white;
 }
+h2 {
+  color: #001f54;
+}
 .title-image {
   border-radius: 100%;
   padding: 10px;
@@ -23,4 +26,9 @@ h2 {
 }
 p {
   text-align: center;
+}
+
+/* Features div */
+.features {
+  margin: 50px 50px;
 }
