@@ -1,18 +1,23 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* Styling Navbar */
 .thanhnav {
   width: 100%;
-  background-image: linear-gradient(to right, #001f54, #1282a2);
+  background-image: linear-gradient(to right, #001f54, #468faf);
 }
+/* Title section */
 .title {
   background-color: #48cae4;
 
-  margin: 45px 100px;
+  margin: 50px 50px;
+}
+h1 {
+  padding: 100px 50px 50px;
+  color: white;
 }
 .title-image {
-  margin: auto;
   border-radius: 100%;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
 }
