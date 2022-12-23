@@ -1,3 +1,7 @@
+body {
+  text-align: cetner;
+}
+
 /* Styling Navbar */
 .thanhnav {
   width: 100%;
@@ -31,4 +35,14 @@ p {
 /* Features div */
 .features {
   margin: 50px 50px;
+}
+
+/* coding languages section */
+.coding-image {
+  text-align: center;
+  width: 180px;
+  height: 240px;
+}
+.color-section {
+  background-color: #468faf;
 }
