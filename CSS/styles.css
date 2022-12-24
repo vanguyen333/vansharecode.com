@@ -45,5 +45,12 @@ p {
   height: 240px;
 }
 .color-section {
-  background-color: #468faf;
+  background-color: #a0d8f0;
+}
+.carousel-item {
+  text-align: center;
+}
+.container-fluid {
+  padding: 50px;
+  margin: 50px;
 }
