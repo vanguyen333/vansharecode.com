@@ -9,12 +9,13 @@ body {
 }
 /* Title section */
 .title {
-  background-color: #48cae4;
+  background-image: linear-gradient(to right, #001f54, #468faf);
 
   margin: 50px 50px;
 }
 h1 {
-  padding: 100px 50px 50px;
+  padding: 100px 100px;
+  text-align: center;
   color: white;
 }
 h2 {
