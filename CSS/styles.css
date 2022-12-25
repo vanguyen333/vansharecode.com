@@ -41,8 +41,8 @@ p {
 /* coding languages section */
 .coding-image {
   text-align: center;
-  width: 180px;
-  height: 240px;
+  width: 200px;
+  height: 220px;
 }
 .color-section {
   background-color: #a0d8f0;
@@ -53,4 +53,7 @@ p {
 .container-fluid {
   padding: 50px;
   margin: 50px;
+}
+p {
+  padding: 50px;
 }
