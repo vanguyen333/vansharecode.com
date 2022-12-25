@@ -42,7 +42,8 @@ p {
 .coding-image {
   text-align: center;
   width: 200px;
-  height: 220px;
+  height: 270px;
+  padding-top: 50px;
 }
 .color-section {
   background-color: #a0d8f0;
