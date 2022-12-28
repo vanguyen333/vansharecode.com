@@ -3,6 +3,9 @@ body {
 }
 
 /* Styling Navbar */
+.navbar-brand {
+  background-color: linear-gradient((to right, #f4d50d, #f1950b));
+}
 .thanhnav {
   width: 100%;
   background-image: linear-gradient(to right, #001f54, #468faf);
@@ -28,6 +31,7 @@ h2 {
 
 h2 {
   text-align: center;
+  padding: 0px 200px;
 }
 p {
   text-align: center;
@@ -35,7 +39,7 @@ p {
 
 /* Features div */
 .features {
-  margin: 50px 50px;
+  margin: 10px 50px;
 }
 
 /* coding languages section */
@@ -56,5 +60,5 @@ p {
   margin: 50px;
 }
 p {
-  padding: 50px;
+  padding: 50px 100px;
 }
